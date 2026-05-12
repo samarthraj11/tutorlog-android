@@ -212,7 +212,7 @@ fun InitializeHomeScreen(
                             )
                             Spacer(modifier = Modifier.height(8.dp))
                             Text(
-                                text = "Add a class to start",
+                                text = "Add a class to see scheduled events here",
                                 color = Color.Gray,
                             )
                             Spacer(modifier = Modifier.height(16.dp))
